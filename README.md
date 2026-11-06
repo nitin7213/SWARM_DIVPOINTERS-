@@ -1,5 +1,8 @@
 # divPointers — Swarm AI Pointers
 
+https://github.com/user-attachments/assets/84b710fe-ebb4-4286-82e5-617a2b129011
+
+
 > **Swarm AI cursor agents that rebuild any web page live.** A multi-agent swarm
 > of pointers erases the page, then works together like AI agents to redraw it.
 
