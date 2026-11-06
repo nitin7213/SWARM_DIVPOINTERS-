@@ -1,4 +1,10 @@
-# divPointers
+# divPointers — Swarm AI Pointers
+
+> **Swarm AI cursor agents that rebuild any web page live.** A multi-agent swarm
+> of pointers erases the page, then works together like AI agents to redraw it.
+
+**Keywords:** swarm AI · AI swarm · swarm pointers · swarm agents · multi-agent ·
+AI agents · AI cursor · cursor animation · Chrome extension · browser extension
 
 A browser extension that erases any web page down to nothing, then has a crew of
 cursors put it back together live: crosshair-drawn boxes, typed text, pen-tool
